@@ -1,1 +1,1 @@
-# spamiarka-adaniami-get-z-listy-proxy
+# spamiarka-zadaniami-get-z-listy-proxy
